@@ -1,3 +1,7 @@
+# WELCOME TO FLAPPY MIMS
+
+Below is the readme from the generator project. Much love and respect to belohlavek (BEE-LOH-LAY-VECK or something like that...)
+
 # Phaser ES6 Boilerplate
 
 This is a non-professional Phaser template for building standard games using the 
